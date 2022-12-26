@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/like-cafe/static/css/main.7c4d7dab.css",
+    "main.js": "/like-cafe/static/js/main.45e5fafb.js",
+    "static/js/787.6941a1cc.chunk.js": "/like-cafe/static/js/787.6941a1cc.chunk.js",
+    "static/media/logo.svg": "/like-cafe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/like-cafe/index.html",
+    "main.7c4d7dab.css.map": "/like-cafe/static/css/main.7c4d7dab.css.map",
+    "main.45e5fafb.js.map": "/like-cafe/static/js/main.45e5fafb.js.map",
+    "787.6941a1cc.chunk.js.map": "/like-cafe/static/js/787.6941a1cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4d7dab.css",
+    "static/js/main.45e5fafb.js"
+  ]
+}
